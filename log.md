@@ -28,3 +28,32 @@
 
 **Link(s) to work**
 1. Nothing to show for it (I promise this will change)
+
+
+### Day 4: January 8, Sunday
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1. Nothing to show for it (I promise this will change)
+
+### Day 5: January 9, Monday
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+1. Nothing to show for it (I promise this will change)
+
+
+### Day 6: January 10, Tuesday
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+1. Nothing to show for it (I promise this will change)
