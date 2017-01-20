@@ -11,7 +11,7 @@ January 3rd, 2017.
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md)) -- *I am spending some time brushing up on my skills, and I have no problem using some learning time as my code for the day. I won't spend the entire 100 days like this, but some of my days here at the beginning are like this.*
 
 
 ## Ideas to make this challenge more effective

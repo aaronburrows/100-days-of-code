@@ -66,3 +66,31 @@ Managed to get the second hand to not rewind around the clock face when resettin
 
 **Link(s) to work:**
 1. [Still in Day 5](work/day05)
+
+
+### Day 7: January 18, Wednesday
+
+**Today's Progress:** Fun with Array functions in ES6
+
+**Thoughts:** This is a skill I need to work on deepening. Programming fundamentals like this are made more enjoyable in modern Javascript but they still seem pretty abstract. I'm happy with this though. These are fun.
+
+**Link(s) to work:**
+1. [Day 7](work/day07)
+
+
+### Day 8: January 19, Thursday
+
+**Today's Progress:** Spending more time on Array methods in ES6
+
+**Thoughts:** Still working on honing these skills. Getting really solid here will be better for my career and my enjoyment of this work.
+
+**Link(s) to work:**
+1. [Day 8](work/day08)
+
+<!-- ### Day 7: January 18, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link(s) to work:**  -->
