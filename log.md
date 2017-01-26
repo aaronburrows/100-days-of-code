@@ -87,6 +87,28 @@ Managed to get the second hand to not rewind around the clock face when resettin
 **Link(s) to work:**
 1. [Day 8](work/day08)
 
+
+### Day 9: January 20, Friday
+
+**Today's Progress:** More array stuff
+
+**Thoughts:** Interesting, and complicated. I'm really working hard to get better at these things.
+
+**Link(s) to work:**
+1. [Day 8](work/day09)
+2. [Eloquent Javascript 4.1](http://eloquentjavascript.net/code/#4.1)
+
+
+<!-- ### Day 10: January 25, Wednesday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link(s) to work:** -->
+
+
+
 <!-- ### Day 7: January 18, Wednesday
 
 **Today's Progress:**
